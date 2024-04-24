@@ -1,0 +1,75 @@
+body {
+    background-color: #fff8dc;
+}
+
+navbar {
+    background-color: #fff8dc;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #333;
+    color: #FAD79A;
+    padding: 20px;
+    text-align: center;
+}
+
+h1 {
+    margin: 0;
+}
+
+
+.content-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.carousel {
+    display: flex;
+    overflow-x: auto;
+}
+
+.carousel_img {
+    margin: 0 auto;
+    /* Center the images horizontally */
+    max-width: 90%;
+    /* width: ;
+    height: auto;
+    margin-right: 10px; */
+}
+
+.paragraph-container {
+    margin-top: 20px;
+}
+
+.yellow-bg {
+    background-color: lightgoldenrodyellow;
+    padding: 20px;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.yellow-bg h2 {
+    margin-top: 0;
+}
+
+.yellow-bg p {
+    margin: 0;
+}
+
+#Check-Disease-Button a {
+    color: white;
+    /* White text color */
+    text-decoration: none;
+}
+
+.w-100 {
+    width: 80vw;
+    height: 75vh
+}

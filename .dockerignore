@@ -1,0 +1,11 @@
+Dockerfile
+README.md
+*.pyc
+*.pyo
+*.pyd
+__pycache__
+.pytest_cache
+.idea
+preperation_and_training.py
+Running the plant code instructions.docx
+your_model.h5
